@@ -10,4 +10,4 @@ matlab scripts here are used to analysis CSI data that collected for experiments
 
 5. script "draw.m" is used for plotting the histogram, then it computes the thresholds for every section and culculates the accuracy of classification.
 
-**here contains several data in this repository. these data were collected by imagine4077. everyone can use it for research purpose**
+**Here contains some data in this repository which were collected by imagine4077. Everyone can use it for research purpose**
